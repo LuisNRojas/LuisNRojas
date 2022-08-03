@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning  HTML, CSS, BOOTSTRAP Y  .JS
 - 💞️ I’m looking to collaborate on  PROJECTS 
 - 📫 How to reach me ... GMAIL
+- I love: :coffe: and :pizza:
 
 <!---
 LuisNRojas/LuisNRojas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
