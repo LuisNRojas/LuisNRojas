@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @LuisNRojas
-- 👀 I’m interested in introducirme en el mundo de la programacion fullstack
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in DEVELOPER FULLSTACKS
+- 🌱 I’m currently learning  HTML, CSS, BOOTSTRAP Y  .JS
+- 💞️ I’m looking to collaborate on  PROJECTS 
+- 📫 How to reach me ... GMAIL
 
 <!---
 LuisNRojas/LuisNRojas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
